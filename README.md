@@ -15,7 +15,7 @@ step.1 First install mongodb(npm i mongodb)<br/>
   {
     "serviceName": "Composite Restoration Services You Can Trust",
     "img": "https://www.clearlakesdental.com/wp-content/uploads/2018/11/banner1-01-3-1024x394.jpg",
-    "price": 420,
+    "price": $250",
     "ratings": 4,
     "description":"Sometimes, when you have tooth decay or a chipped tooth, composite restoration is necessary for maintaining your smile and oral health. If you have major tooth decay or a broken/chipped tooth, don’t hesitate to make an appointment with your local dentist in St Paul at Clear Lakes Dental. We will be happy to do your composite restoration for you.
     Composite fillings are tooth-colored restorations used to replace parts of a tooth that are damaged, missing, or decayed. Composite restoration is the most common type of dental restoration used because it looks and wears like natural teeth, ensuring that you will have a healthy and beautiful smile.",
@@ -26,7 +26,7 @@ step.1 First install mongodb(npm i mongodb)<br/>
   {
     "serviceName": "Knowledgeable Porcelain Teeth Bridge Dentists",
     "img": "https://www.clearlakesdental.com/wp-content/uploads/2018/11/banner2-01-3-1024x394.jpg",
-    "price": 420,
+    "price": $150",
     "ratings": 5,
     "description":"A dental bridge is a non-removable appliance used to replace missing or lost teeth. Though there are several types of bridges available, porcelain fixed bridges are favored by many patients because of their ability to replicate the look of your natural teeth. These appliances fill the gap created by one or more missing teeth. It consists of two crowns that go over two abutment teeth that are attached to an artificial tooth. Together, this grouping perfectly fills the gap of your missing teeth to provide you with a complete smile once again. At Clear Lakes Dental, our porcelain teeth bridge dentists in St Paul, MN are prepared to return your smile with a unique restoration that perfectly mimics the look of your real teeth. Reach out to our knowledgeable dental team for more information about our porcelain teeth bridges.",
     "benefitName":"Reasons You May Need a Porcelain Tooth Bridge",
@@ -41,7 +41,7 @@ step.1 First install mongodb(npm i mongodb)<br/>
   {
     "serviceName": "Extractions Delivered with Care and Compassion",
     "img": "https://www.clearlakesdental.com/wp-content/uploads/2018/11/banner8-01-1-1024x394.jpg",
-    "price": 420,
+    "price": $75",
     "ratings": 5,
     "description":"Although permanent teeth are meant to last a lifetime, there are a number of reasons that you may need to have a tooth pulled in adulthood. Generally, dentists take a proactive approach to a patient’s oral health needs in order to prevent the need for a tooth extraction. However, when a tooth becomes badly damaged due to drama or decay, seeking an extraction is often the best course of action.
     At Clear Lakes Dental, our affordable wisdom teeth removal dentists in St Paul, MN, perform effective and efficient extractions for less. Whether you have an impacted, infected or fractured wisdom tooth, count on our dedicated dental team to handle your needs with the utmost care. Contact our tooth removal dentists for more information about our procedures.",
@@ -79,7 +79,7 @@ step.1 First install mongodb(npm i mongodb)<br/>
   {
     "serviceName": "Protect & Enhance Your Smile",
     "img": "https://www.clearlakesdental.com/wp-content/uploads/2018/11/banner3-01-2-1024x394.jpg",
-    "price": 420,
+    "price": "$50",
     "ratings": 5,
     "description":"Over time, teeth inevitably weaken and begin to need extra protection. Ensure that your smile remains vibrant by coming to Clear Lakes Dental in St Paul, MN, to be professionally fitted for tooth crowns. With us, you’ll be able to repair and protect your teeth against numerous problems, such as cracks, decay, infections, and more. Our office is committed to making sure all your teeth remain healthy and strong for a lifetime. Schedule an appointment with us today if you experience any of the following issues with your teeth:Discoloration",
     "benefitName":"Beautiful Looking Crowns",
@@ -89,7 +89,7 @@ Contact us today to find out more about the procedure of implanting tooth crowns
   {
     "serviceName": "Natural Looking and Attractive Dentures",
     "img": "https://www.clearlakesdental.com/wp-content/uploads/2018/11/banner4-01-2-1024x394.jpg",
-    "price": 420,
+    "price": "$25",
     "ratings": 4.5,
     "description":"Improve your bite, as well as your quality of life, with dental dentures. In St Paul, MN, we are highly experienced dentists who understand the structure of your mouth and how to create perfect and comfortable-fitting dentures. When you have missing teeth, it can be hard to eat or smile. The health of your mouth and remaining teeth will also be affected. Depend on Clear Lakes Dental for a natural-looking smile and strong teeth. Contact us for a consultation today.",
      "benefitName":"The Benefits of Full and Partial Dentures",
