@@ -70,10 +70,6 @@ step.1 First install mongodb(npm i mongodb)<br/>
     similar to having a deep filling done.",
     "benefitDetails":"When the soft tissue inside your tooth (the pulp) becomes infected or inflamed, a root canal
     treatment is needed. Here is a list of reasons why you may need a root canal treatment:
-    ● Deep decay
-    ● Repeated dental procedures on the tooth
-    ● Faulty crown
-    ● Crack or chip in the tooth
     If left untreated, you may experience persistent pain &/or an abscess as a result. The term root
     canal can sound scary to a lot of people. However, the procedure itself doesn’t cause any kind
     of special pain and is actually the solution to those experiencing persistent tooth pain. Almost all
@@ -85,17 +81,10 @@ step.1 First install mongodb(npm i mongodb)<br/>
     "img": "https://www.clearlakesdental.com/wp-content/uploads/2018/11/banner3-01-2-1024x394.jpg",
     "price": 420,
     "ratings": 5,
-    "description":"Over time, teeth inevitably weaken and begin to need extra protection. Ensure that your smile remains vibrant by coming to Clear Lakes Dental in St Paul, MN, to be professionally fitted for tooth crowns. With us, you’ll be able to repair and protect your teeth against numerous problems, such as cracks, decay, infections, and more. Our office is committed to making sure all your teeth remain healthy and strong for a lifetime. Schedule an appointment with us today if you experience any of the following issues with your teeth:
-
-    Discoloration
-    Cracked Teeth
-    Worn Down Teeth
-    Tooth Death
-    Excessive Cavities
-    Weakened Teeth",
-     "benefitName":"Beautiful Looking Crowns",
-    "benefitDetails":"Everyone desires a gorgeous row of straight teeth, but metal caps do little more than distract from a smile. That is why we offer a variety of natural-looking crowns that blend perfectly and even enhance the look of your smile. This is the perfect option for those who want to show off their pearly whites whenever they desire. Porcelain, ceramic, and synthetic caps not only look great, but they also feel no different than your natural teeth. Get in touch with our office today to go over your options for protecting your teeth with natural-looking tooth crowns.
-    Contact us today to find out more about the procedure of implanting tooth crowns. We are proud to serve St Paul, MN, and the surrounding area. Dental Crow"
+    "description":"Over time, teeth inevitably weaken and begin to need extra protection. Ensure that your smile remains vibrant by coming to Clear Lakes Dental in St Paul, MN, to be professionally fitted for tooth crowns. With us, you’ll be able to repair and protect your teeth against numerous problems, such as cracks, decay, infections, and more. Our office is committed to making sure all your teeth remain healthy and strong for a lifetime. Schedule an appointment with us today if you experience any of the following issues with your teeth:Discoloration",
+    "benefitName":"Beautiful Looking Crowns",
+   "benefitDetails":"Everyone desires a gorgeous row of straight teeth, but metal caps do little more than distract from a smile. That is why we offer a variety of natural-looking crowns that blend perfectly and even enhance the look of your smile. This is the perfect option for those who want to show off their pearly whites whenever they desire. Porcelain, ceramic, and synthetic caps not only look great, but they also feel no different than your natural teeth. Get in touch with our office today to go over your options for protecting your teeth with natural-looking tooth crowns.
+Contact us today to find out more about the procedure of implanting tooth crowns. We are proud to serve St Paul, MN, and the surrounding area. Dental Crow"
   },
   {
     "serviceName": "Natural Looking and Attractive Dentures",
