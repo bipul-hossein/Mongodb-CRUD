@@ -105,6 +105,6 @@ Contact us today to find out more about the procedure of implanting tooth crowns
     Reduced Stress on Jaw
     Improved Confidence and Your Bite
     Restore your confidence and your smile by contacting us about full and partial dentures. We proudly serve patients in St Paul, MN, and the surrounding areas. Dentures St Paul MN Dentures St Paul MN Dentures St Paul MN Dentures St Paul MN Dentures St Paul MN Dentures St Paul MN"
-  },
+  }
   
 ]
